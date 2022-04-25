@@ -6,6 +6,10 @@ public class Hello {
 	{
 		System.out.println("Hellooo M2");
 	}
+	public void m1()
+	{
+		System.out.println("Hellooo M1");
+	}
 		
 		
 		public static void main(String[] args) {
