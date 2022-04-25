@@ -10,7 +10,10 @@ public class Hello {
 	{
 		System.out.println("Hellooo M1");
 	}
-		
+	public void m3()
+	{
+		System.out.println("Hellooo M3");
+	}
 		
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
