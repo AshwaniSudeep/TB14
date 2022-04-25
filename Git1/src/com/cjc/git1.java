@@ -10,7 +10,10 @@ public class git1 {
 	{
 		System.out.println("m2.......A");
 	}
-
+	public void m3()
+	{
+		System.out.println("m2.......A");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
